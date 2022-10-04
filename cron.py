@@ -1,6 +1,10 @@
 import pandas as pd 
 import requests as rs 
 import json
+import os
+import sys
+import time 
+
 response_API_json= rs.get('https://healthdata.gov/resource/vbjv-rh5z.json')
 #this code allows us to get the data from the API link
 
