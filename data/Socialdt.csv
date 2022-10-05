@@ -1,0 +1,62 @@
+source,name_of_data,link
+Agency for Healthcare Research and Quality (AHRQ),AHRQ Compendium of U.S. Health Systems,{'url': 'https://www.ahrq.gov/chsp/data-resources/compendium.html'}
+Arizona Department of Health Services,50 State Review on Opioid Related Policy,{'url': 'https://www.azdhs.gov/documents/prevention/womens-childrens-health/injury-prevention/opioid-prevention/50-state-review-printer-friendly.pdf'}
+Center for Consumer Information and Insurance Oversight,Health Insurance Exchange Public Use Files (PUFs),{'url': 'https://www.cms.gov/CCIIO/Resources/Data-Resources/marketplace-puf'}
+Centers for Disease Control and Prevention,United States Diabetes Surveillance System,{'url': 'https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html'}
+Centers for Disease Control and Prevention,U.S. County Opioid Dispensing Rates,{'url': 'https://www.cdc.gov/drugoverdose/maps/rxrate-maps.html'}
+Centers for Disease Control and Prevention,Asthma Call-back Survey (ACBS),{'url': 'https://www.cdc.gov/brfss/acbs/index.htm'}
+Centers for Disease Control and Prevention,Asthma Surveillance Data,{'url': 'https://www.cdc.gov/asthma/national-surveillance-data/default.htm'}
+Centers for Disease Control and Prevention,National Immunization Surveys,{'url': 'https://www.cdc.gov/vaccines/imz-managers/nis/data-tables.html'}
+Centers for Disease Control and Prevention,National Survey of Children's Health,{'url': 'https://www.cdc.gov/nchs/slaits/nsch.htm'}
+Centers for Disease Control and Prevention,National Home and Hospice Care Survey/National Post-acute and Long-term Care Study,{'url': 'https://www.cdc.gov/nchs/nhhcs/index.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fnhhcs.htm'}
+Centers for Disease Control and Prevention,500 Cities Project*,{'url': 'https://www.cdc.gov/places/about/500-cities-2016-2019/index.html'}
+Centers for Disease Control and Prevention,Behavioral Risk Factor Surveillance System (BRFSS),{'url': 'https://www.cdc.gov/BRFSS'}
+Centers for Disease Control and Prevention,Interactive Atlas of Heart Disease and Stroke,{'url': 'https://www.cdc.gov/dhdsp/maps/atlas/index.htm'}
+Centers for Disease Control and Prevention,National Ambulatory Medical Care Survey (NAMCS)/National Hospital Ambulatory Medical Care Survey (NHAMCS),{'url': 'https://www.cdc.gov/nchs/ahcd/about_ahcd.htm'}
+Centers for Disease Control and Prevention,Childhood Lead State Surveillance Data,{'url': 'https://www.cdc.gov/nceh/lead/data/state.htm'}
+Centers for Disease Control and Prevention (CDC),CDC Grant Funding Profiles,{'url': 'https://www.cdc.gov/fundingprofiles/index.htm'}
+Centers for Disease Control and Prevention (CDC),CDC Social Vulnerability Index,{'url': 'https://svi.cdc.gov'}
+Centers for Disease Control and Prevention (CDC),CDC Wide-ranging ONline Data for Epidemiologic Research (CDC Wonder),{'url': 'https://wonder.cdc.gov/'}
+Centers for Disease Control and Prevention (CDC)+A42,CDC  Youth Risk Behavior Surveillance System,{'url': 'https://www.cdc.gov/healthyyouth/data/yrbs/index.htm'}
+"Centers for Disease Control and Prevention, Division of Population Health",Chronic Disease Indicators,{'url': 'https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725/data'}
+"Centers for Disease Control and Prevention, National Center for Environmental Health",National Environmental Public Health Tracking Network,{'url': 'https://ephtracking.cdc.gov/showHome.action'}
+Centers for Medicare & Medicaid Services,Mapping Medicare Disparities,{'url': 'https://data.cms.gov/mapping-medicare-disparities'}
+Centers for Medicare & Medicaid Services,Nationwide Quality Rating System Public Use File,{'url': 'https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/QualityInitiativesGenInfo/ACA-MQI/Downloads/Plan-Year-2020-Nationwide-Quality-Rating-System-PUF.zip'}
+Centers for Medicare & Medicaid Services,Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG),{'url': 'https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3'}
+Centers for Medicare & Medicaid Services (CMS),CMS Medicare Chronic Conditions Dashboard,{'url': 'https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CCDashboard.html'}
+Federal Emergency Management Agency (FEMA),FEMA Disaster Declarations,{'url': 'https://www.fema.gov/about/openfema/data-sets'}
+Federal Emergency Management Agency (FEMA),FEMA National Flood Hazard Layer,{'url': 'https://www.fema.gov/flood-maps/national-flood-hazard-layer'}
+Health Resources and Services Administration,Area Health Resources Files,{'url': 'https://data.hrsa.gov/data/download'}
+Medicaid and CHIP Payment and Access Commission,State Policies for Behavioral Health Services Covered Under the State Plan,{'url': 'https://www.macpac.gov/publication/behavioral-health-state-plan-services/'}
+National Cancer Institute,State Cancer Profiles,{'url': 'https://www.statecancerprofiles.cancer.gov/incidencerates/index.php'}
+National Center for Education Statistics National Assessment of Adult Literacy,State and County Estimates of Low Literacy,{'url': 'https://nces.ed.gov/naal/estimates/StateEstimates.aspx'}
+National Hurricane Center Data Archive,(1) Atlantic Hurricane Database (2) Northeast and North Central Pacific Hurricane Database,{'url': 'https://www.nhc.noaa.gov/data/#hurdat'}
+National Weather Service,National Weather Service,{'url': 'https://www.weather.gov'}
+Occupational Safety and Health Administration,Chemical Exposure Health Data,{'url': 'https://www.osha.gov/opengov/healthsamples.html'}
+Substance Abuse and Mental Health Services Administration (SAMHSA),SAMHSA Treatment Episode Data Set (TEDS) State Reports: Admission and Discharge Data Sets,{'url': 'https://www.datafiles.samhsa.gov/study-series/treatment-episode-data-set-admissions-teds-nid13518'}
+Substance Abuse and Mental Health Services Administration (SAMHSA),SAMHSA National Survey of Substance Abuse Treatment Services (N-SSATS),{'url': 'https://www.datafiles.samhsa.gov/study-series/national-survey-substance-abuse-treatment-services-n-ssats-nid13519'}
+Substance Abuse and Mental Health Services Administration (SAMHSA),SAMHSA National Survey on Drug Use and Health (NSDUH),{'url': 'https://www.datafiles.samhsa.gov/study-series/national-survey-drug-use-and-health-nsduh-nid13517'}
+Substance Abuse and Mental Health Services Administration (SAMHSA),SAMHSA Behavioral Health Treatment Services Locator,{'url': 'https://findtreatment.samhsa.gov'}
+U.S. Army Corps of Engineers,National Levee Database,{'url': 'https://levees.sec.usace.army.mil/#'}
+U.S. Census Bureau,Small Area Income and Poverty Estimates (SAIPE) Datasets,{'url': 'https://www.census.gov/programs-surveys/saipe/data/datasets.html'}
+U.S. Census Bureau,Small Area Health Insurance Estimates (SAHIE) Program,{'url': 'https://www.census.gov/programs-surveys/sahie.html'}
+U.S. Census Bureau,U.S. Census County Business Patterns (CBP),{'url': 'https://www.census.gov/programs-surveys/cbp/data/datasets.html'}
+U.S. Census Bureau,American Community Survey (ACS),{'url': 'https://www.census.gov/programs-surveys/acs/data.html'}
+U.S. Department of Agriculture,Food Access Research Atlas,{'url': 'https://www.ers.usda.gov/data-products/food-access-research-atlas/'}
+U.S. Department of Agriculture,Food Environment Atlas,{'url': 'https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads'}
+U.S. Department of Agriculture,Current Population Survey Food Security Supplement,{'url': 'https://www.ers.usda.gov/data-products/food-security-in-the-united-states/food-security-in-the-united-states/#Current%20Population%20Survey%20(CPS)'}
+U.S. Department of Education,Civil Rights Data Collection (CRDC),{'url': 'https://www2.ed.gov/about/offices/list/ocr/data.html'}
+"U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Division of Cancer Prevention and Control",U.S. Cancer Statistics (USCS),{'url': 'https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm'}
+"U.S. Department of Health and Human Services, Centers for Medicare & Medicaid Services",Nursing Home Compare (NHC),{'url': 'https://data.cms.gov/provider-data/search?theme=Nursing%20homes%20including%20rehab%20services'}
+"U.S. Department of Health and Human Services, Centers for Medicare & Medicaid Services",Medicare Advantage Penetration (MAP) Files,{'url': 'https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/MCRAdvPartDEnrolData/MA-State-County-Penetration'}
+"U.S. Department of Housing and Urban Development, Office of Policy Development and Research",Comprehensive Housing Affordability Strategy (CHAS),{'url': 'https://www.huduser.gov/portal/datasets/cp.html#2006-2014_data'}
+"U.S. Department of Justice, Drug Enforcement Administration, Diversion Control Division",Automated Reports and Consolidated Ordering System (ARCOS) Retail Drug Summary Reports,{'url': 'https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary'}
+"U.S. Department of Labor, Bureau of Labor Statistics",Local Area Unemployment Statistics,{'url': 'https://www.bls.gov/lau/tables.htm'}
+U.S. Environmental Protection Agency,Smart Location Mapping,{'url': 'https://www.epa.gov/smartgrowth/smart-location-mapping'}
+U.S. Environmental Protection Agency,Combined Facility Registry Service Data,{'url': 'https://www.epa.gov/frs/epa-state-combined-csv-download-files'}
+U.S. Environmental Protection Agency,Toxics Release Inventory (TRI) Basic Plus National Data Files,{'url': 'https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-plus-data-files-calendar-years-1987-2018'}
+U.S. Environmental Protection Agency,Air Quality Index (AQI),{'url': 'https://aqs.epa.gov/aqsweb/airdata/download_files.html'}
+U.S. Environmental Protection Agency,Air Quality - Cities and Counties,{'url': 'https://www.epa.gov/air-trends/air-quality-cities-and-counties'}
+U.S. Environmental Protection Agency,National Priorities List and Superfund Alternative Approach Sites,{'url': 'https://www.epa.gov/superfund/search-superfund-sites-where-you-live'}
+U.S. Geological Survey,National Water-Quality Assessment (NAWQA) Project: Pesticide National Synthesis Project,{'url': 'https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level'}
+University of Michigan Inter-university Consortium for Political and Social Research Uniform Crime Reporting Program,Uniform Crime Reports,{'url': 'https://www.fbi.gov/services/cjis/ucr'}
