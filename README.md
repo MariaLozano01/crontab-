@@ -2,7 +2,7 @@
 
 ## Schedule of cron jobs
 
-#Every Sunday at 10pm
+# Every Sunday at 10pm
 0 22 * * SUN /usr/bin/python3 /home/maria_lozano_vargas/crontab-/crontabRead_json.py > log.txt 2>&1 &
 
 # Every Day at 2am
@@ -11,12 +11,12 @@
 # Pull down data at the end of every quarter
 0 0 1 */3 * /usr/bin/python3 /home/maria_lozano_vargas/crontab-/crontabRead_json.py > log.txt 2>&1 &
 
-#To open code needed to schedule cron job
+# To open code needed to schedule cron job
 nano crontabRead_json.py
 
-#restart cron job
+# Restart cron job
 sudo service cron reload
 
-#To check status of cron job
+# To check status of cron job
 systemctl status cron
 
