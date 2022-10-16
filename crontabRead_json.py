@@ -31,7 +31,7 @@ timestart = time.strftime("%Y-%m-%D_%H:%M:%S", time.localtime(now))
 print('Time program starts running at: ', timestart)
 
 #Create a new file in the current working directory
-with open(cwd + '/data/crontabread' + timestart + '.csv', 'w') as f:
+with open(cwd + '/crontabread' + timestart + '.txt', 'w') as f:
     f.write(str(response_API_json)) #takes our data file ans creates a new data file that now 
     #has a timestamp on it on when to run it 
 
